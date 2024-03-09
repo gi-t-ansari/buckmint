@@ -8,7 +8,8 @@ module.exports = withMT({
       colors: {
         primary: "#FF5151",
         lightGray: "#b3b3b2",
-        gray: "#696869"
+        gray: "#696869",
+        heading: "#161E54"
 
       },
     },
